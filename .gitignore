@@ -1,0 +1,4 @@
+src/Distro/*
+src/Downloads/*
+src/Tmp/*
+**/*~
